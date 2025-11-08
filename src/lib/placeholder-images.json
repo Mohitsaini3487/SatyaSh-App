@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar-1",
+      "description": "User avatar for Sarthak Jain",
+      "imageUrl": "https://images.unsplash.com/photo-1521146764736-56c929d59c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBmYWNlfGVufDB8fHx8MTc2MjUyMzUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person face"
+    },
+    {
+      "id": "news-1",
+      "description": "Abstract technology background for a news article",
+      "imageUrl": "https://images.unsplash.com/photo-1579548122080-c35fd6820ecb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWNobm9sb2d5JTIwYWJzdHJhY3R8ZW58MHx8fHwxNzYyNTA5Nzg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology abstract"
+    },
+    {
+      "id": "news-2",
+      "description": "Political debate or conference",
+      "imageUrl": "https://images.unsplash.com/photo-1660795308754-4c6422baf2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb2xpdGljcyUyMGNvbmZlcmVuY2V8ZW58MHx8fHwxNzYyNTQxNTkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "politics conference"
+    },
+    {
+      "id": "news-3",
+      "description": "Financial stock market chart",
+      "imageUrl": "https://images.unsplash.com/photo-1756044064036-dec5e34ce189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmaW5hbmNlJTIwc3RvY2tzfGVufDB8fHx8MTc2MjU0MTU5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance stocks"
+    },
+    {
+      "id": "news-4",
+      "description": "Scientific research in a lab",
+      "imageUrl": "https://images.unsplash.com/photo-1595311182166-d63273ddc386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzY2llbmNlJTIwbGFifGVufDB8fHx8MTc2MjUzMzgyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science lab"
+    },
+    {
+      "id": "news-5",
+      "description": "Social media icons on a screen",
+      "imageUrl": "https://images.unsplash.com/photo-1724862936518-ae7fcfc052c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NjI1NDE1Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social media"
+    },
+    {
+      "id": "news-6",
+      "description": "A person looking at a viral video on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1670992827573-ae38ac89e0cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx2aXJhbCUyMHZpZGVvfGVufDB8fHx8MTc2MjU0MTU5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "viral video"
+    }
+  ]
+}
